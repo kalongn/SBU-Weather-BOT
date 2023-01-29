@@ -15,11 +15,7 @@
     "discord-api-types": "^0.37.10",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.2",
-    "google-geocoder": "^0.2.1",
-    "googleapis": "^108.0.0",
-    "node-fetch": "^3.2.10",
-    "weather-js": "^2.0.0",
-    "weather.js": "^0.1.0"
+    "weather-js": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
