@@ -22,7 +22,10 @@ module.exports = {
         const location = interaction.options.getString("location");
 
         weather.find({ search: location, degreeType: "F" }, (error, result) => {
-            if (error || location.length == 0) throw error;
+            if (error || location.length == 0) {
+                console.log(error);
+                return;
+            }
             const data = result[0];
             const embed = new EmbedBuilder()
                 .setTitle(`Weather at ` + location)
