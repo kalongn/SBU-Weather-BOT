@@ -1,7 +1,7 @@
 /**
  * Discord Bot Weather slash commands
  * @author Ka Long Ngai
- * Time wasted: ~3 hours
+ * Time spent: ~3 hours
  */
 
 const { SlashCommandBuilder, EmbedBuilder } = require("@discordjs/builders");

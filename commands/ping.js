@@ -1,7 +1,7 @@
 /**
  * Discord Bot ping slash commands
  * @author Ka Long Ngai
- * Time wasted: ~10 mins
+ * Time spent: ~10 mins
  */
 
 const { SlashCommandBuilder } = require("@discordjs/builders");

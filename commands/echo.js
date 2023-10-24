@@ -1,7 +1,7 @@
 /**
  * Discord Bot echo slash commands
  * @author Ka Long Ngai
- * Time wasted: ~20 mins
+ * Time spent: ~20 mins
  */
 
 const { SlashCommandBuilder } = require("@discordjs/builders");

@@ -1,7 +1,7 @@
 /**
  * Discord Bot setup/run script
  * @author Ka Long Ngai
- * Time wasted: ~4 hours
+ * Time spent: ~4 hours
  */
 
 //getting the TOKEN from env file
