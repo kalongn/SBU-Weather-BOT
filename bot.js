@@ -11,7 +11,7 @@ require("dotenv").config();
 const { Client, Collection } = require('discord.js');
 const fs = require("fs");
 const { REST } = require("@discordjs/rest");
-const { Route, Routes } = require("discord-api-types/v9");
+const { Routes } = require("discord-api-types/v9");
 
 const client = new Client(
     {
